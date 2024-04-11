@@ -18,7 +18,7 @@ VPstarterSettings = {}
 VPstarterSettings.profile = "" -- Put in value to change profile, leave blank for default
 VPstarterSettings.keybindAllow = true -- Keybind Enabled or not
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Not-Yesnt/VulnerablePoint/main/VPLUA'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Javascript743/Vent-point-revamp/main/VPLUAU'))()
 ```
 
 After executing, press ; (Semicolon) to open up the phone (command bar)
